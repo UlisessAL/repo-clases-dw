@@ -1,0 +1,44 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.body{
+    background-image: url("https://m.media-amazon.com/images/I/71gSEKGZdAL.jpg");
+    background-position:center;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: #cccccc;
+    height: 50px;
+    width: 600px;
+    font-family: 'Unbounded', cursive;
+}
+
+div h1{
+    font-size: 15px;
+    color: red;
+}
+
+div{
+    color: blueviolet;
+}
+
+#alejo-id{
+    color: white;
+    margin: 40px 20px 15px 10px;
+    text-align: center;
+}
+
+.titulo-pagina{
+    color: blue;
+}
+
+.titulo-pagina{
+    color: rebeccapurple;
+}
+.lista-no-lista{
+    list-style-type: none;
+}
